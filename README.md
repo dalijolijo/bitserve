@@ -1,4 +1,4 @@
-# bitserve
+# bitserve-btx
 
 > Bitdb Microservice
 
