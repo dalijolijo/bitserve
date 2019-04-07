@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bitqueryd": "^0.1.7",
+    "bitqueryd-btx": "git://github.com/dalijolijo/bitqueryd-btx#master",
     "dotenv": "^6.0.0",
     "ejs": "^2.6.1",
     "express": "^4.16.3",
