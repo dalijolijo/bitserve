@@ -1,6 +1,6 @@
 # bitserve-btx
 
-> Bitdb Microservice
+> Bitdb Microservice for Bitcore (BTX)
 
 An API Endpoint + Web Query UI for BitDB
 
@@ -29,8 +29,8 @@ Makes use of the API endpoint to render the query UI
 
 You must have the following installed.
 
-1. Bitcoin Full Node: Any BCH node implementation
-2. Bitdb Node: Bitdb is a universal bitcoin database that autonomously synchronizes with Bitcoin https://bitdb.network
+1. Bitcore Full Node
+2. Bitdb Node: Bitdb is a universal bitcore database that autonomously synchronizes with Bitcore https://bitdb.network
 
 
 # Install
@@ -38,7 +38,7 @@ You must have the following installed.
 Step 1. Clone this repository
 
 ```
-git clone https://github.com/21centurymotorcompany/bitserve.git
+git clone https://github.com/dalijolijo/bitserve-btx.git
 ```
 
 Step 2. Install Dependencies
@@ -83,5 +83,4 @@ Here's what each attribute represents:
 
 # Join the Community
 
-- Twitter: Follow the creator [@_unwriter](https://twitter.com/_unwriter)
 - Chat: Join bitdb Telegram channel, ask questions, share your projects, etc. [Open chat](https://t.me/joinchat/HH1DDQ8pZlSlsdNcKgIcxw)
